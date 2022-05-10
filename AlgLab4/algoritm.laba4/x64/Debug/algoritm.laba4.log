@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Visual Studio codes\algoritm.laba4\algoritm.laba4\Source.cpp(35,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Visual Studio codes\algoritm.laba4\algoritm.laba4\Source.cpp(111,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio codes\algoritm.laba4\algoritm.laba4\Source.cpp(112,16): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  algoritm.laba4.vcxproj -> D:\Visual Studio codes\algoritm.laba4\x64\Debug\algoritm.laba4.exe
