@@ -1,7 +1,0 @@
-﻿  Source.cpp
-D:\Visual Studio codes\algoritm.laba2\Project7\Source.cpp(22,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-D:\Visual Studio codes\algoritm.laba2\Project7\Source.cpp(23,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-D:\Visual Studio codes\algoritm.laba2\Project7\Source.cpp(72,19): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-D:\Visual Studio codes\algoritm.laba2\Project7\Source.cpp(73,19): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-D:\Visual Studio codes\algoritm.laba2\Project7\Source.cpp(103,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Project7.vcxproj -> D:\Visual Studio codes\algoritm.laba2\x64\Debug\Project7.exe

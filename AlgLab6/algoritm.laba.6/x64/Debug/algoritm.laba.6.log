@@ -1,5 +1,0 @@
-﻿  Source.cpp
-D:\Visual Studio codes\algoritm.laba.6\algoritm.laba.6\Source.cpp(80,7): warning C4101: b: неиспользованная локальная переменная
-D:\Visual Studio codes\algoritm.laba.6\algoritm.laba.6\Source.cpp(79,10): warning C4101: ey: неиспользованная локальная переменная
-D:\Visual Studio codes\algoritm.laba.6\algoritm.laba.6\Source.cpp(79,6): warning C4101: ex: неиспользованная локальная переменная
-  algoritm.laba.6.vcxproj -> D:\Visual Studio codes\algoritm.laba.6\x64\Debug\algoritm.laba.6.exe

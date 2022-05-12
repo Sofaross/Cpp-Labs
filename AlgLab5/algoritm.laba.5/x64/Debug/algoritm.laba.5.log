@@ -1,3 +1,0 @@
-﻿  Source.cpp
-D:\Visual Studio codes\algoritm.laba5\algoritm.laba.5\Source.cpp(24,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  algoritm.laba.5.vcxproj -> D:\Visual Studio codes\algoritm.laba5\x64\Debug\algoritm.laba.5.exe
